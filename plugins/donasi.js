@@ -10,12 +10,12 @@ let duit = `*────── 「 DONATE 」 ──────*
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
   「 Donasi • Pulsa 」
-•  Axis   [0831-0673-3687]
-•  Telkomsel [0813-3417-7340]
+•  Axis   [0838-9739-0164]
+•  Telkomsel [62823-4010-8349]
 
   「 Donasi • NonPulsa 」
-•  OVO   [085601928437]
-•  Saweria [https://saweria.co/Darrma]
+•  OVO/Gopay/Dana   [083897390164]
+•  Saweria [https://saweria.co/YUSUP909]
 
 Berapapun donasi kalian akan sangat berarti 👍
 
@@ -30,14 +30,14 @@ let message = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/fil
            hydratedButtons: [{
              urlButton: {
                displayText: '🏧 Saweria',
-               url: 'https://saweria.co/darrma'
+               url: 'https://saweria.co/YUSUP909'
              }
 
            },
                {
              callButton: {
                displayText: 'Telkomsel',
-               phoneNumber: '+62 813-2855-2597'
+               phoneNumber: '+62 823-4010-8349'
              }
            },           
                {
